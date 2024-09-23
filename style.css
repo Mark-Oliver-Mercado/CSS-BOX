@@ -1,0 +1,23 @@
+.Box1{
+    background-color: green;
+    border: 10px solid black;
+    margin: 0 1100px 0 0;
+    padding: 20px;
+    height: 200px;
+    width: 200px;
+}
+.Box2{
+    background-color: yellow;
+    border-style: solid;
+    border-width: 20px 10px;
+    margin: 0 0 0 260px;
+    height: 200px;
+    width: 200px;
+}
+.Box3{
+    background-color: tomato;
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    margin: 0 0 20px 40px;
+}
